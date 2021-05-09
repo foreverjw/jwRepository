@@ -1,2 +1,2 @@
 config:
-  info: dev env
+  info: label:master env:dev 

@@ -1,2 +1,2 @@
 config:
-  info: label:master env:prod 
+  info: "label:master env:prod"

@@ -1,2 +1,2 @@
 config:
-  info: prod env
+  info: label:dev env:prod 

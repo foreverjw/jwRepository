@@ -1,2 +1,2 @@
 config:
-  info: test env
+  info: label:master env:test 
